@@ -1,0 +1,1 @@
+gunicorn index:app -w 1 --logfile -
